@@ -9,7 +9,7 @@
 <h2>🚀 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,fastapi,keras,matplotlib,numpy,pandas,tensorflow,sklearn,github" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,fastapi,keras,matplotlib,numpy,pandas,tensorflow,sklearn,github,vs code,seaborn" />
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aaaaddddyyyyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
