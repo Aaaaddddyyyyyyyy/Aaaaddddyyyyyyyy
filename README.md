@@ -26,9 +26,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aaaaddddyyyyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aaaaddddyyyyyyyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaaaddddyyyyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+theme=radical
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aaaaddddyyyyyyyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
