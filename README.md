@@ -18,8 +18,6 @@
 
 📊 Currently learning **Machine Learning, Deep Learning, Data Analytics, MLOps & Generative AI**
 
-🚀 Building **Smart Construction Estimator** using data-driven approaches
-
 🧠 Exploring **Computer Vision, NLP, Predictive Modeling & Reinforcement Learning**
 
 💡 Interested in solving real-world problems through AI & Analytics
@@ -55,7 +53,7 @@
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -70,13 +68,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
 </p>
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
----
 
 ## 📈 GitHub Analytics
 
