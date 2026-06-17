@@ -16,7 +16,7 @@
 
 🎓 College Student passionate about **Data Science, Machine Learning & Artificial Intelligence**
 
-📊 Currently learning **Machine Learning, Deep Learning, Data Analytics, MLOps & Generative AI**
+📊 Currently learning **Machine Learning, Deep Learning, AI Engineering, MLOps & Generative AI**
 
 🧠 Exploring **Computer Vision, NLP, Predictive Modeling & Reinforcement Learning**
 
