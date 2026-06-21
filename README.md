@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 College Student passionate about **Data Science, Machine Learning & Artificial Intelligence**
+🎓 College Student passionate about ** Artificial Intelligence,Machine Learning & Data Science **
 
 📊 Currently learning **Machine Learning, Deep Learning, AI Engineering, MLOps & Generative AI**
 
