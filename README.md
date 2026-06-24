@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Jha</h1>
 
-<h3 align="center">
-Aspiring Data Scientist | Machine Learning Enthusiast | AI Engineer in Progress
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Solutions;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Future+Data+Scientist;Always+Learning+Something+New+🚀" />
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -53,16 +53,16 @@ class AdityaJha:
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-jha-aa211a290">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/Aaaaddddyyyyyyyy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-jha-aa211a290/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:iadityajha693@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/Aaaaddddyyyyyyyy">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
