@@ -107,27 +107,8 @@
 
 ## 🧠 Currently Learning
 
-```python
-class AdityaJha:
 
-    def __init__(self):
-        self.role = "Aspiring Data Scientist"
 
-        self.learning = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analytics",
-            "MLOps",
-            "Generative AI"
-        ]
-
-        self.goal = "Build impactful AI solutions"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
-```
-
----
 
 ## 📚 Current Focus
 
