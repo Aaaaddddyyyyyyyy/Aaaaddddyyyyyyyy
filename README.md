@@ -4,6 +4,8 @@
 Aspiring Data Scientist | Machine Learning Enthusiast | AI Engineer in Progress
 </h3>
 
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Building+AI+Powered+Projects;Learning+Something+New+Every+Day+🚀" />
 </p>
