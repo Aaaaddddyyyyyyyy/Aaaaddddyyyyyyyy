@@ -1,84 +1,106 @@
-# Hey 👋, I'm Aditya Jha
+<h1 align="center">Hi 👋, I'm Aditya Jha</h1>
+
+<h3 align="center">
+Aspiring Data Scientist | Machine Learning Enthusiast | AI Engineer in Progress
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+AI+Powered+Projects;Turning+Data+Into+Insights+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Deep+Learning+%7C+NLP;Building+AI+Powered+Projects;Learning+Something+New+Every+Day+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaaaddddyyyyyyyy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Aaaaddddyyyyyyyy&label=Profile+Views&style=for-the-badge" />
 </p>
 
 ---
 
-## 💫 About Me
+# 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```python
+class AdityaJha:
 
-🎓 College Student passionate about **Artificial Intelligence,Machine Learning & Data Science**
+    def __init__(self):
+        self.role = "Aspiring Data Scientist"
+        self.location = "India"
+        self.languages = ["Python", "Java", "C++", "SQL"]
 
-📊 Currently learning **Machine Learning, Deep Learning, AI Engineering, MLOps & Generative AI**
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "Generative AI",
+            "MLOps"
+        ]
 
-🧠 Exploring **Computer Vision, NLP, Predictive Modeling & Reinforcement Learning**
+        self.current_goal = "Become an AI Engineer & Data Scientist"
 
-💡 Interested in solving real-world problems through AI & Analytics
+    def motto(self):
+        return "Build → Learn → Improve → Repeat"
+```
 
-⚡ Goal: Become a top-tier **Data Scientist & AI Engineer**
-
-🌱 Consistently learning and building impactful projects
-
-📫 Reach me at: **iadityajha693@gmail.com**
+- 🎓 College Student
+- 📊 Learning Machine Learning, Deep Learning & NLP
+- 🤖 Exploring Generative AI and MLOps
+- 🧠 Building End-to-End AI Projects
+- 🌱 Improving Problem Solving and System Design
+- 🎯 Goal: Land an AI/Data Science Role
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aditya-jha-aa211a290/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<a href="https://www.linkedin.com/in/aditya-jha-aa211a290">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Aaaaddddyyyyyyyy" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55" />
-</a>
-&nbsp;&nbsp;
+
 <a href="mailto:iadityajha693@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" />
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Aaaaddddyyyyyyyy">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
 </p>
 
-### 📊 Data Science & Machine Learning
+### Data Science & AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-### 🛠️ Tools & Technologies
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
 </p>
 
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaaaddddyyyyyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaaaddddyyyyyyyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</p>
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaaaddddyyyyyyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaaaddddyyyyyyyy&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Aaaaddddyyyyyyyy&theme=tokyonight&hide_border=true"/>
@@ -86,72 +108,62 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aaaaddddyyyyyyyy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaaaddddyyyyyyyy&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaaaddddyyyyyyyy&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aaaaddddyyyyyyyy&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-
-
-## 🧠 Currently Learning
-
-
-
-
-## 📚 Current Focus
+# 📚 Currently Learning
 
 - Machine Learning
 - Deep Learning
+- Natural Language Processing
 - Data Analytics
-- Data Visualization
 - Generative AI
 - MLOps
-- Building End-to-End ML Projects
 
 ---
 
-## 📈 GitHub Metrics
+# 🚀 Featured Projects
+
+### 🏗 Smart Construction Estimator
+AI-powered system that estimates material quantity and construction cost based on user requirements.
+
+### 📊 Data Analytics Projects
+Exploratory Data Analysis, Dashboarding, Feature Engineering, and Predictive Modeling.
+
+### 🤖 Machine Learning Projects
+Classification, Regression, Recommendation Systems, and Model Deployment.
+
+---
+
+# 📈 Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaaaddddyyyyyyyy&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaaaddddyyyyyyyy&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaaaddddyyyyyyyy&theme=tokyonight" width="49%" />
-</p>
-
 ---
 
-## ⚡ Fun Fact
+# 💭 Quote
 
 <p align="center">
-<b>"Without data, you're just another person with an opinion."</b>
-</p>
-
----
-
-
-
-## ☕ Support
-
-<p align="center">
-If you like my projects, consider giving them a ⭐
+<i>"The goal is not to be better than someone else. The goal is to be better than yesterday."</i>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:667eea,100:764ba2&section=footer"/>
 </p>
