@@ -130,15 +130,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### 🏗️ Smart Construction Estimator
-
-AI/Data Analytics based system for estimating construction materials and predicting project costs.
-
-</div>
 
 #### Key Features
 
