@@ -191,12 +191,6 @@ class AdityaJha:
 
 ---
 
-## ⚡ Fun Fact
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion."</i>
-</p>
-
 ---
 
 ## ☕ Support
