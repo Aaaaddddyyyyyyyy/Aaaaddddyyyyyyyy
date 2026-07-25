@@ -55,7 +55,7 @@
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -67,14 +67,9 @@
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api" />
 </p>
 
-### 🌐 Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
 
 ---
 
