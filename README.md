@@ -126,13 +126,7 @@
 ---
 
 
-#### Key Features
 
-- 📦 Material Quantity Estimation
-- 💰 Cost Prediction
-- 📊 Interactive Data Visualization
-- 🏗️ Smart Construction Planning
-- 📈 Data-Driven Insights
 
 ---
 
