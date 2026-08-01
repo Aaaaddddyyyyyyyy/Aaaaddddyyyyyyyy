@@ -160,7 +160,7 @@ class AdityaJha:
 
 - ✅ Master Machine Learning
 - ✅ Complete Deep Learning
-- 🔄 Learn NLP & LLMs
+- ✅ Learn NLP & LLMs
 - 🔄 Build End-to-End AI Projects
 - 🔄 Strengthen Data Structures & SQL
 - 🎯 Land a Data Science / AI Internship
