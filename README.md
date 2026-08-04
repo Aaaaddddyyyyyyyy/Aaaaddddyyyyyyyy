@@ -107,26 +107,6 @@
 
 ---
 
-## 📈 GitHub Metrics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaaaddddyyyyyyyy&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaaaddddyyyyyyyy&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaaaddddyyyyyyyy&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aaaaddddyyyyyyyy&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aaaaddddyyyyyyyy&theme=tokyonight&utcOffset=5.5" width="49%" />
-</p>
-
----
-
-
-
 
 ---
 
@@ -172,7 +152,7 @@ class AdityaJha:
 
 - Machine Learning
 - Deep Learning
-- Data Analytics
+- Agentic AI
 - Natural Language Processing
 - Generative AI
 - MLOps
