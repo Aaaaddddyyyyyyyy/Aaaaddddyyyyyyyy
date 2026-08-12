@@ -111,7 +111,7 @@ class AdityaJha:
 
     def __init__(self):
         self.name = "Aditya Jha"
-        self.role = "Aspiring Data Scientist"
+        self.role = "Aspiring AI Engineering"
 
         self.learning = [
             "Machine Learning",
