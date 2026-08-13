@@ -61,13 +61,13 @@
 ### 📊 Data Science & Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,scikitlearn" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api,langchain,langgraph" />
 </p>
 
 
