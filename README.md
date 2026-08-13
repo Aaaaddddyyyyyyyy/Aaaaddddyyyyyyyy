@@ -67,7 +67,7 @@
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api,langchain,langgraph" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api,codex" />
 </p>
 
 
