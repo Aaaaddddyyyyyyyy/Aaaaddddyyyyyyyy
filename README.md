@@ -61,13 +61,13 @@
 ### 📊 Data Science & Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,scikitlearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api,codex" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,fast-api" />
 </p>
 
 
@@ -116,7 +116,6 @@ class AdityaJha:
         self.learning = [
             "Machine Learning",
             "Deep Learning",
-            "Data Analytics",
             "MLOps",
             "Generative AI",
             "Natural Language Processing"
