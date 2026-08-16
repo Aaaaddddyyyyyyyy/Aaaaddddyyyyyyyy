@@ -118,8 +118,7 @@ class AdityaJha:
             "Deep Learning",
             "MLOps",
             "Generative AI",
-            "Natural Language Processing"
-        ]
+            "Natural Language Processing"]
 
         self.goal = "Build impactful AI solutions"
 
