@@ -18,8 +18,6 @@
 
 📊 Currently learning **Machine Learning, Deep Learning, Data Analytics, MLOps & Generative AI**
 
-🚀 Building **Smart Construction Estimator** using data-driven approaches
-
 🧠 Exploring **Computer Vision, NLP, Predictive Modeling & Reinforcement Learning**
 
 💡 Interested in solving real-world problems through AI & Analytics
