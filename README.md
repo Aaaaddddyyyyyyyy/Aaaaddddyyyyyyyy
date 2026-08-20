@@ -121,7 +121,7 @@ class AdityaJha:
         self.goal = "Build impactful AI solutions"
 
     def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
+        print("Thanks for visiting my profile ")
 ```
 
 ---
