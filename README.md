@@ -133,7 +133,7 @@ class AdityaJha:
 - ✅ Learn NLP & LLMs
 - 🔄 Build End-to-End AI Projects
 - 🔄 Strengthen Data Structures & SQL
-- 🎯 Land a Data Science / AI Internship
+- 🎯 Land an AI Internship
 - 🎯 Become Industry Ready
 
 ---
