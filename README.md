@@ -1,4 +1,4 @@
-# Hey ❤️ I'm Aditya Jha 😎
+# Hey ❤️ I'm Aditya Jha 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Building+AI+Powered+Projects;Turning+Data+Into+Insights+Make+it+Own+it🚀" />
@@ -155,7 +155,7 @@ class AdityaJha:
 ## ☕ Support
 
 <p align="center">
-⭐ If you like my projects, consider starring them and following my journey.
+ If you like my projects, consider starring them and following my journey.🤗
 </p>
 
 ---
